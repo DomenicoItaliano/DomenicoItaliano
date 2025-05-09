@@ -1,7 +1,7 @@
 # 👋 Ciao, sono Domenico Italiano
 
 🎓 Studente magistrale in Ingegneria delle Telecomunicazioni e Informatica  
-🚀 Software Developer con 3 anni di esperienza nello sviluppo di applicazioni scalabili basate su microservizi. Esperienza con Spring Boot, tecnologie Cloud e pratiche DevOps, gestione API REST e processi batch
+🚀 Software Developer con 3 anni di esperienza nello sviluppo di applicazioni scalabili basate su microservizi. Esperienza con Spring Boot, tecnologie Cloud e pratiche DevOps, gestione API REST e processi batch              
 🧑‍🏫 Mi piace unire tecnologia e formazione, con un occhio al futuro della PA
 
 ## 🔧 Competenze principali
