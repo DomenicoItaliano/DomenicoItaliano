@@ -21,6 +21,11 @@
 - 🧩 Sito responsive “SaraSaraSport”
 - 🎯 HTML5, CSS3, Flexbox
 
+### [📡 AdHoc Routing (NS-3)](https://github.com/DomenicoItaliano/AdHoc_Routing)
+- 🔁 Simulazione rete ad hoc 802.11g con 10 nodi
+- ⚔️ Confronto tra protocolli AODV e DSDV
+- 📊 Analisi con Python (throughput, packet loss, overhead)
+
 ## 📫 Contatti
 - [LinkedIn](https://linkedin.com/in/domenicoitaliano)
 - ✉️ Email: (domenico.italiano96@gmail.com)
