@@ -5,7 +5,7 @@
 🧑‍🏫 Mi piace unire tecnologia e formazione, con un occhio al futuro della PA
 
 ## 🔧 Competenze principali
-- 🐍 Python, Java, Bash
+- 🐍 Python, Java, Bash, Spring boot, SQL
 - 📡 NS-3, Wireshark, NetAnim
 - 🤖 Kubernetes, Docker,Mirantis, Splunk
 - ☁️ Docker, VirtualBox, Maven, Postman
