@@ -10,9 +10,16 @@
 - 🤖 Kubernetes, Docker,Mirantis, Splunk
 - ☁️ Docker, VirtualBox, Maven, Postman
 
-## 🧠 Progetti in evidenza
-- [Data-Analytics](https://github.com/DomenicoItaliano/Data-Analytics): classificazione funghi commestibili vs velenosi con ML
-- [Programmazione-Web-e-mobile](https://github.com/DomenicoItaliano/Programmazione-Web-e-mobile): sito responsive in HTML/CSS, Struts2, Java
+## 📂 Progetti in evidenza
+
+### [📊 Data Analytics](https://github.com/DomenicoItaliano/Data-Analytics)
+- ✅ Classificazione funghi (ML)
+- ✅ Predizione insufficienza cardiaca
+- 🛠️ Python, Jupyter, scikit-learn
+
+### [🌐 Programmazione Web e Mobile](https://github.com/DomenicoItaliano/Programmazione-Web-e-mobile)
+- 🧩 Sito responsive “SaraSaraSport”
+- 🎯 HTML5, CSS3, Flexbox
 
 ## 📫 Contatti
 - [LinkedIn](https://linkedin.com/in/domenicoitaliano)
